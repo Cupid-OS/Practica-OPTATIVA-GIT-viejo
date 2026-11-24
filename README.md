@@ -1,7 +1,7 @@
 # Práctica OPTATIVA GIT
 
 Repositorio de la práctica de Git y GitHub. Recoge el trabajo realizado con
-comandos locales, creación y fusión de ramas, publicación en GitHub y
+comandos locales, creación y uso de ramas, publicación en GitHub y
 clonación del repositorio.
 
 ## Contenido

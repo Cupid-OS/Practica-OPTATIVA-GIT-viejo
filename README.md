@@ -1,23 +1,19 @@
-# Práctica OPTATIVA GIT
+# Practica OPTATIVA GIT
 
-Repositorio de la práctica de Git y GitHub. Recoge el trabajo realizado con
-comandos locales, creación y uso de ramas, publicación en GitHub y
-clonación del repositorio.
+Practica de Git y GitHub realizada con Git Bash sobre Windows 11.
 
 ## Contenido
 
-- `index.html`: estructura básica de la página web.
-- `app.js`: script de ejemplo.
-- `style.css`: hoja de estilos.
-- `.gitignore`: archivos y carpetas excluidas del control de versiones.
+- index.html: pagina principal del proyecto
+- app.js: script de ejemplo
+- style.css: estilos del proyecto
+- .gitignore: exclusion de archivos de prueba
 
 ## Ramas
 
-- `master`: rama principal del proyecto.
-- `login`: rama de trabajo con los módulos de login y autenticación.
+- master: rama principal
+- login: modulos de login y autenticacion
 
 ## Autor
 
-Thiago Montblanch Mota ([Cupid-OS](https://github.com/Cupid-OS))
-
-Práctica realizada en noviembre de 2026.
+Thiago Montblanch Mota (Cupid-OS)
